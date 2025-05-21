@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>server.ServerChat</mainClass> <!-- Укажите полное имя вашего основного класса -->
+                            <mainClass>server.ServerChat</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -41,7 +41,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>server.ServerChat</mainClass> <!-- Укажите полное имя вашего основного класса -->
+                            <mainClass>server.ServerChat</mainClass> 
                         </manifest>
                     </archive>
                 </configuration>
