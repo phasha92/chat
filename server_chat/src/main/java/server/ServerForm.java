@@ -14,7 +14,6 @@ public class ServerForm {
         // Создаем окно
         frame = new JFrame("Server Control");
         frame.setSize(300, 150);
-        frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE); // Запрещаем закрытие окна стандартным способом
 
         // Создаем кнопку "ЗАВЕРШИТЬ"
         stopButton = new JButton("ЗАВЕРШИТЬ");
