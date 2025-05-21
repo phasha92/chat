@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>client.LoginChat</mainClass> <!-- Укажите полное имя вашего основного класса -->
+                            <mainClass>client.LoginChat</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -41,7 +41,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>client.LoginChat</mainClass> <!-- Укажите полное имя вашего основного класса -->
+                            <mainClass>client.LoginChat</mainClass> 
                         </manifest>
                     </archive>
                 </configuration>
