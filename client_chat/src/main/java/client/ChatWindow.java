@@ -14,7 +14,7 @@ public class ChatWindow {
 
     public ChatWindow(String username) {
         try {
-            client = new ChatClient(username, "94.188.112.81", 8956);
+            client = new ChatClient(username, "localhost", 8080);
         } catch (IOException e) {
             JOptionPane.showMessageDialog(null, "Failed to connect to server.");
             return;
